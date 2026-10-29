@@ -23,7 +23,7 @@ In `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/VerifyYou/verifyyou-ios", from: "1.0.0-rc.1")
+    .package(url: "https://github.com/VerifyYou/verifyyou-ios", from: "1.0.0")
 ],
 targets: [
     .target(
